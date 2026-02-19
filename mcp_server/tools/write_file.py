@@ -1,6 +1,6 @@
 from pathlib import Path 
 
-def read_file(path:str) -> str:
+def write_file(path:str) -> str:
     """
     This function takes text as input and writes it to a file.
     """
